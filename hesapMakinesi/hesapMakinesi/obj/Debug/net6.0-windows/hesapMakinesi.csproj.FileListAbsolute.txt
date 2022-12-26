@@ -1,0 +1,17 @@
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0-windows\hesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0-windows\hesapMakinesi.Form1.resources
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0-windows\hesapMakinesi.csproj.GenerateResource.cache
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0-windows\hesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0-windows\hesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0-windows\hesapMakinesi.AssemblyInfo.cs
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0-windows\hesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\bin\Debug\net6.0-windows\hesapMakinesi.exe
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\bin\Debug\net6.0-windows\hesapMakinesi.deps.json
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\bin\Debug\net6.0-windows\hesapMakinesi.runtimeconfig.json
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\bin\Debug\net6.0-windows\hesapMakinesi.dll
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\bin\Debug\net6.0-windows\hesapMakinesi.pdb
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0-windows\hesapMakinesi.dll
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0-windows\refint\hesapMakinesi.dll
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0-windows\hesapMakinesi.pdb
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0-windows\hesapMakinesi.genruntimeconfig.cache
+C:\Users\berka\source\repos\hesapMakinesi\hesapMakinesi\obj\Debug\net6.0-windows\ref\hesapMakinesi.dll
